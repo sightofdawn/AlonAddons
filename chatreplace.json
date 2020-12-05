@@ -79,9 +79,9 @@
     "&b[MVP&r&d+&r&b] ConfusingUser": "&1[&2FORGE&1] &bConfusingUser",
     "&b[MVP&d+&b] ConfusingUser": "&1[&2FORGE&1] &bConfusingUser",
     "ConfusingUser": "&bConfusingUser",
-    "&b[MVP&r&2+&r&b] Hriizon": "&5[BETTER EGIRL++] &5Hriizon",
-    "&b[MVP&2+&b] Hriizon": "&5[BETTER EGIRL++] &5Hriizon",
-    "Hriizon": "&5Hriizon",
+    "&b[MVP&r&2+&r&b] Hriizon": "&3[&dB&3E&dT&3T&dE&3R &dE&3G&dI&3R&dL&3+&d+&3] &dH&3r&di&3i&dz&3o&dn",
+    "&b[MVP&2+&b] Hriizon": "&3[&dB&3E&dT&3T&dE&3R &dE&3G&dI&3R&dL&3+&d+&3] &dH&3r&di&3i&dz&3o&dn",
+    "Hriizon": "&dH&3r&di&3i&dz&3o&dn",
     "&b[MVP&r&2+&r&b] Iloyuk": "&d[Better than uni] &bIloyuk",
     "&b[MVP&2+&b] Iloyuk": "&d[Better than uni] &bIloyuk",
     "Iloyuk": "&bIloyuk",
@@ -99,5 +99,8 @@
     "Dynamatic": "&7Dynamatic",
     "&b[MVP&r&4+&r&b] 20656blake": "&d[UwU] &d20656blake",
     "&b[MVP&4+&b] 20656blake": "&d[UwU] &d20656blake",
-    "20656blake": "&d20656blake"
+    "20656blake": "&d20656blake",
+    "&6[MVP&r&2++&r&6] Cut2": "&c[OWO] &cCut2",
+    "&6[MVP&2++&6] Cut2": "&c[OWO] &cCut2",
+    "Cut2": "&cCut2"
 }
