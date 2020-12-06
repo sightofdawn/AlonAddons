@@ -119,7 +119,10 @@
     "&b[MVP&r&2+&r&b] DerGriefer": "&0[&f&kIDK&0] &0Der&fGriefer",
     "&b[MVP&2+&b] DerGriefer": "&0[&f&kIDK&0] &0Der&fGriefer",
     "DerGriefer": "&0Der&fGriefer",
-    "&6[MVP&r&9++&r&6] oTwig": "&2[Tree&f++&2] &2oTwig",
-    "&6[MVP&9++&6] oTwig": "&2[Tree&f++&2] &2oTwig",
-    "oTwig": "&2oTwig"
+    "&6[MVP&r&9++&r&6] oTwig": "&2[TREE&f+++&2] &2oTwig",
+    "&6[MVP&9++&6] oTwig": "&2[TREE&f+++&2] &2oTwig",
+    "oTwig": "&2oTwig",
+    "&6[MVP&r&2++&r&6] xSuperL": "&b[GOOSE] &bxSuperL",
+    "&6[MVP&2++&6] xSuperL": "&b[GOOSE] &bxSuperL",
+    "xSuperL": "&bxSuperL"
 }
