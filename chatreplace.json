@@ -113,8 +113,8 @@
     "&b[MVP&r&2+&r&b] Quackkx": "&6[&eDuck&6] &6Quackkx",
     "&b[MVP&2+&b] Quackkx": "&6[&eDuck&6] &6Quackkx",
     "Quackkx": "&6Quackkx",
-    "&b[MVP&r&f+&r&b] DevilsDeath": "&4[HELL] &4DevilsDeath",
-    "&b[MVP&f+&b] DevilsDeath": "&4[HELL] &4DevilsDeath",
+    "&b[MVP&r&f+&r&b] DevilsDeath": "&4[&k12345&r&4Hell&k12345&r&4] &4DevilsDeath",
+    "&b[MVP&f+&b] DevilsDeath": "&4[&k12345&r&4Hell&k12345&r&4] &4DevilsDeath",
     "DevilsDeath": "&4DevilsDeath",
     "&b[MVP&r&2+&r&b] DerGriefer": "&4[&f&k...&4] &4Der&4Griefer",
     "&b[MVP&2+&b] DerGriefer": "&4[&f&k...&4] &4Der&4Griefer",
@@ -139,5 +139,7 @@
     "Osteole": "&eOsteole",
     "&b[MVP&r&0+&r&b] Vortie": "&0[&9&lDungeoneer+&0] &8&lVortie",
     "&b[MVP&0+&b] Vortie": "&0[&9&lDungeoneer+&0] &8&lVortie",
-    "Vortie": "&8&lVortie"
+    "Vortie": "&8&lVortie",
+    "&b[MVP] Aleksiiiio": "&6[Gnar Main] &fAleksiiiio",
+    "Aleksiiiio": "&fAleksiiiio"
 }
