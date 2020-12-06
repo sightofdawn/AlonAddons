@@ -136,5 +136,8 @@
     "MelchiG": "&3MelchiG",
     "&b[MVP&r&2+&r&b] Osteole": "&e[&6CHEESE&0++&e] &eOsteole",
     "&b[MVP&2+&b] Osteole": "&e[&6CHEESE&0++&e] &eOsteole",
-    "Osteole": "&eOsteole"
+    "Osteole": "&eOsteole",
+    "&r&6[MVP&r&0++&r&6] Vortie": "&0[&9&lDungeoneer+&0] &8&lVortie",
+    "&6[MVP&0++&6] Vortie": "&0[&9&lDungeoneer+&0] &8&lVorie",
+    "Vortie": "&8&lVortie"
 }
