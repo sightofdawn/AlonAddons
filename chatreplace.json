@@ -137,9 +137,9 @@
     "&b[MVP&r&2+&r&b] Osteole": "&e[&6CHEESE&0++&e] &eOsteole",
     "&b[MVP&2+&b] Osteole": "&e[&6CHEESE&0++&e] &eOsteole",
     "Osteole": "&eOsteole",
-    "&b[MVP&r&0+&r&b] Vortie": "&0[&9&lDungeoneer+&0] &8&lVortie",
-    "&b[MVP&0+&b] Vortie": "&0[&9&lDungeoneer+&0] &8&lVortie",
-    "Vortie": "&8&lVortie",
+    "&b[MVP&r&0+&r&b] Vortie": "&c[&a&lDungeoneer+&c] &a&lVortie",
+    "&b[MVP&0+&b] Vortie": "&c[&a&lDungeoneer+&c] &a&lVortie",
+    "Vortie": "&a&lVortie",
     "&b[MVP] Aleksiiiio": "&6[Gnar uwu] &0Aleksiiiio",
     "Aleksiiiio": "&0Aleksiiiio",
     "&b[MVP&r&3+&r&b] Lucas4732": "&1[&9idk&1] &3Lucas4732",
@@ -147,5 +147,8 @@
     "Lucas4732": "&3Lucas4732",
     "&b[MVP&r&0+&r&b] SP0KE": "&b[&dQT&b] &bSP&d0&bKE",
     "&b[MVP&0+&b] SP0KE": "&b[&dQT&b] &bSP&d0&bKE",
-    "SP0KE": "&bSP&d0&bKE"
+    "SP0KE": "&bSP&d0&bKE",
+    "&b[MVP&r&5+&r&b] laatan": "&0&l[&f&lFAVOURITE ARCHER&0&l] &f&llaatan",
+    "&b[MVP&5+&b] laatan": "&0&l[&f&lFAVOURITE ARCHER&0&l] &f&llaatan",
+    "laatan": "&f&llaatan"
 }
