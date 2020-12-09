@@ -150,14 +150,16 @@
     "SP0KE": "&bSP&d0&bKE",
     "&b[MVP&r&5+&r&b] laatan": "&0&l[&f&lFAVOURITE ARCHER&0&l] &f&llaatan",
     "&b[MVP&5+&b] laatan": "&0&l[&f&lFAVOURITE ARCHER&0&l] &f&llaatan",
+    "&b[MVP&r&e+&r&b] laatan": "&0&l[&f&lFAVOURITE ARCHER&0&l] &f&llaatan",
+    "&b[MVP&e+&b] laatan": "&0&l[&f&lFAVOURITE ARCHER&0&l] &f&llaatan",
     "laatan": "&f&llaatan",
-    "&b[MVP&r&5+&r&b] disqbled": "&0&l[&e&lBEST MAGE&0&l] &e&ldisqbled",
-    "&b[MVP&5+&b] disqbled": "&0&l[&e&lBEST MAGE&0&l] &e&ldisqbled",
-    "disqbled": "&e&ldisqbled",
+    "&b[MVP&r&5+&r&b] NotDisqbled": "&0&l[&e&lBEST MAGE&0&l] &e&lNotDisqbled",
+    "&b[MVP&5+&b] NotDisqbled": "&0&l[&e&lBEST MAGE&0&l] &e&lNotDisqbled",
+    "NotDisqbled": "&e&lNotDisqbled",
     "&b[MVP&r&2+&r&b] Requinnn": "&f&l[&5&lTHROWQUIN&f&l] Requinnn",
     "&b[MVP&2+&b] Requinnn": "&f&l[&5&lTHROWQUIN&f&l] Requinnn",
     "Requinnn": "&f&lRequinnn",
-    "&b[MVP&r&3+&r&b] Salacha": "&4&l[awaSAN] &f&lSalacha",
-    "&b[MVP&3+&b] Salacha": "&4&l[awaSAN] &f&lSalacha",
-    "Salacha": "&f&lSalacha"
+    "&b[MVP&r&3+&r&b] shig1002": "&4&l[awaSAN] &f&lshig1002",
+    "&b[MVP&3+&b] shig1002": "&4&l[awaSAN] &f&lshig1002",
+    "shig1002": "&f&lshig1002"
 }
