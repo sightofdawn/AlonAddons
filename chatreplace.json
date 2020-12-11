@@ -176,7 +176,7 @@
     "&b[MVP&r&4+&r&b] Purpified": "&0[&fWalter&0] &5Purpified",
     "&b[MVP&4+&b] Purpified": "&0[&fWalter&0] &5Purpified",
     "Purpified": "&5Purpified",
-    "&b[MVP&r&a+&r&b] 2tealth": "&0[&fWalter&0] &52tealth",
-    "&b[MVP&a+&b] 2tealth": "&0[&fWalter&0] &52tealth",
-    "2tealth": "&52tealth"
+    "&b[MVP&r&a+&r&b] 2tealth": "&9[&fWalter&9] &92tealth",
+    "&b[MVP&a+&b] 2tealth": "&9[&fWalter&9] &92tealth",
+    "2tealth": "&92tealth"
 }
