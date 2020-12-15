@@ -178,5 +178,8 @@
     "Purpified": "&5Purpified",
     "&b[MVP&r&a+&r&b] 2tealth": "&0[&fWalter&0] &92tealth",
     "&b[MVP&a+&b] 2tealth": "&0[&fWalter&0] &92tealth",
-    "2tealth": "&92tealth"
+    "2tealth": "&92tealth",
+    "&6[MVP&r&2++&r&6] artificialsnow": "&6[CARROT&2++&6] artificialsnow",
+    "&6[MVP&2++&6] artificialsnow": "&6[CARROT&2++&6] artificialsnow",
+    "artificialsnow": "&6artificialsnow"
 }
