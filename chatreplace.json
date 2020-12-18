@@ -82,9 +82,9 @@
     "&b[MVP&r&2+&r&b] Hriizon": "&3[&dB&3E&dT&3T&dE&3R &dE&3G&dI&3R&dL&3+&d+&3] &dH&3r&di&3i&dz&3o&dn",
     "&b[MVP&2+&b] Hriizon": "&3[&dB&3E&dT&3T&dE&3R &dE&3G&dI&3R&dL&3+&d+&3] &dH&3r&di&3i&dz&3o&dn",
     "Hriizon": "&dH&3r&di&3i&dz&3o&dn",
-    "&b[MVP&r&9+&r&b] Iloyuk": "&d[Better than uni] &bIloyuk",
-    "&b[MVP&9+&b] Iloyuk": "&d[Better than uni] &bIloyuk",
-    "Iloyuk": "&bIloyuk",
+    "&b[MVP&r&9+&r&b] Iloyuk": "&d[Better than uni] &6Iloyuk",
+    "&b[MVP&9+&b] Iloyuk": "&d[Better than uni] &6Iloyuk",
+    "Iloyuk": "&6Iloyuk",
     "&b[MVP&r&2+&r&b] dragotheseeel": "&b[&aSEEEL&b] &bdragotheseeel",
     "&b[MVP&2+&b] dragotheseeel": "&b[&aSEEEL&b] &bdragotheseeel",
     "dragotheseeel": "&bdragotheseeel",
@@ -181,5 +181,11 @@
     "2tealth": "&92tealth",
     "&6[MVP&r&2++&r&6] artificialsnow": "&6[CARROT&2++&6] artificialsnow",
     "&6[MVP&2++&6] artificialsnow": "&6[CARROT&2++&6] artificialsnow",
-    "artificialsnow": "&6artificialsnow"
+    "artificialsnow": "&6artificialsnow",
+    "&b[MVP&r&2+&r&b] oPickle": "&6[MVP&0++&6] &6oPickle",
+    "&b[MVP&2+&b] oPickle": "&6[MVP&0++&6] &6oPickle",
+    "oPickle": "&6oPickle",
+    "&b[MVP&r&4+&r&b] greenbelt88": "&agreen&bbelt&288",
+    "&b[MVP&4+&b] greenbelt88": "&agreen&bbelt&288",
+    "greenbelt88": "&agreen&bbelt&288"
 }
