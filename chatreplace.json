@@ -188,7 +188,7 @@
     "&b[MVP&r&9+&r&b] AgentCri": "&c[Pog+++] &cAgentCri",
     "&b[MVP&9+&b] AgentCri": "&c[Pog+++] AgentCri",
     "AgentCri": "AgentCri",
-    "&b[MVP&r&9+&r&b] ug3x": "&5[NERD] &cug3x",
-    "&b[MVP&9+&b] ug3x": "&5[NERD] &cug3x",
-    "ug3x": "&cug3x"
+    "&b[MVP&r&9+&r&b] ug3x": "&5&l[NERD] &c&lug3x",
+    "&b[MVP&9+&b] ug3x": "&5&l[NERD] &c&lug3x",
+    "ug3x": "&c&lug3x"
 }
