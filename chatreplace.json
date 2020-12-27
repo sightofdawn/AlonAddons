@@ -85,9 +85,6 @@
     "&b[MVP&r&2+&r&b] dragotheseeel": "&b[&aSEEEL&b] &bdragotheseeel",
     "&b[MVP&2+&b] dragotheseeel": "&b[&aSEEEL&b] &bdragotheseeel",
     "dragotheseeel": "&bdragotheseeel",
-    "&b[MVP&r&3+&r&b] idqn": "&7idqn",
-    "&b[MVP&3+&b] idqn": "&7idqn",
-    "idqn": "&7idqn",
     "&b[MVP&r&2+&r&b] pig9": "&d[&fBOI&d] &dpig&f9",
     "&b[MVP&2+&b] pig9": "&d[&fBOI&d] &dpig&f9",
     "pig9": "&dpig&f9",
@@ -190,5 +187,11 @@
     "AgentCri": "AgentCri",
     "&b[MVP&r&9+&r&b] ug3x": "&5&l[NERD] &c&lug3x",
     "&b[MVP&9+&b] ug3x": "&5&l[NERD] &c&lug3x",
-    "ug3x": "&c&lug3x"
+    "ug3x": "&c&lug3x",
+    "&b[MVP&r&4+&r&b] cgalland43": "&6[&oDad&0++&6] &4D&ca&6d&eo&2f&2f&ai&bc&3i&1a&9l",
+    "&b[MVP&4+&b] cgalland43": "&6[&oDad&0++&6] &4D&ca&6d&eo&2f&2f&ai&bc&3i&1a&9l",
+    "&b[MVP&r&4+&r&b] DadPlsNo": "&6[&oDad&0++&6] &4D&ca&6d&eo&2f&2f&ai&bc&3i&1a&9l",
+    "&b[MVP&r&4+&r&b] DadPlsNo": "&6[&oDad&0++&6] &4D&ca&6d&eo&2f&2f&ai&bc&3i&1a&9l",
+    "cgalland43": "&4D&ca&6d&eo&2f&2f&ai&bc&3i&1a&9l",
+    "DadPlsNo": "&4D&ca&6d&eo&2f&2f&ai&bc&3i&1a&9l"
 }
